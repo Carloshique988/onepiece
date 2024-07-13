@@ -1,0 +1,77 @@
+
+<div class="row">
+    <div class="col-md-4">
+      <img src="/todos/1.jpg" alt="Luffy" class="img-fluid">
+      <h5>Luffy</h5>
+      <p>Capitão da tripulação dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-4">
+      <img src="/todos/1.jpg" alt="Roronoa Zoro" class="img-fluid">
+      <h5>Roronoa Zoro</h5>
+      <p>Primeiro-mate da tripulação dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-4">
+      <img src="/todos/1.jpg" alt="Usopp" class="img-fluid">
+      <h5>Usopp</h5>
+      <p>Atirador da tripulação dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-4">
+      <img src="/todos/1.jpg" alt="Sanji" class="img-fluid">
+      <h5>Sanji</h5>
+      <p>Chef da tripulação dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="nami.jpg" alt="Nami" class="img-fluid">
+      <h5>Nami</h5>
+      <p>Navegadora da tripulação dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="brook.jpg" alt="Brook" class="img-fluid">
+      <h5>Brook</h5>
+      <p>Músico da tripulação dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="chopper.jpg" alt="Chopper" class="img-fluid">
+      <h5>Chopper</h5>
+      <p>Médico da tripulação dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="franky.jpg" alt="Franky" class="img-fluid">
+      <h5>Franky</h5>
+      <p>Carpinteiro da tripulação dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="nicolas_robin.jpg" alt="Nicolas Robin" class="img-fluid">
+      <h5>Nicolas Robin</h5>
+      <p>Arqueóloga da tripulação dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="jinbe.jpg" alt="Jinbe" class="img-fluid">
+      <h5>Jinbe</h5>
+      <p>Helmsman da tripulação dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="trafalgar_law.jpg" alt="Trafalgar Law" class="img-fluid">
+      <h5>Trafalgar Law</h5>
+      <p>Pirata e aliado dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="bohemian_king.jpg" alt="Bohemian King" class="img-fluid">
+      <h5>Bohemian King</h5>
+      <p>Pirata e aliado dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="fishman_island.jpg" alt="Fishman Island" class="img-fluid">
+      <h5>Fishman Island</h5>
+      <p>Ilha habitada por peixes-humanos.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="doflamingo.jpg" alt="Doflamingo" class="img-fluid">
+      <h5>Doflamingo</h5>
+      <p>Pirata e inimigo dos Chapéus de Palha.</p>
+    </div>
+    <div class="col-md-3">
+      <img src="blackbeard.jpg" alt="Blackbeard" class="img-fluid">
+      <h5>Blackbeard</h5>
+      <p>Pirata e inimigo dos Chapéus de Palha
+    </div>
